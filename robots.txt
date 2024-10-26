@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://imiseeda.github.io/sitemap_index.imiseeda
